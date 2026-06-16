@@ -1,0 +1,27 @@
+# Python junk
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter junk
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files (too large for GitHub)
+data/
+*.csv
+*.pt
+*.pkl
+
+# Model weights (huge files)
+*.pth
+*.h5
+
+# Environment
+venv/
+gnn_env/
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
